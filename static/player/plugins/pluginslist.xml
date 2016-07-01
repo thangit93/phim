@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pluginlist loading="Loading Plugins, Please wait...">
+    <plugins url="gkplugins_picasaweb.swf"/>
+    <plugins url="gkplugins_youtube.swf"/>
+    <plugins url="gkplugins_clipvn.swf"/>
+    <plugins url="gkplugins_zingvn.swf"/>
+    <plugins url="gkplugins_zippyshare.swf"/>
+</pluginlist>
