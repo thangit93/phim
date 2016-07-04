@@ -232,19 +232,19 @@ function get_link_total($url) {
     else if (preg_match("#video.timnhanh.com/xem-clip/([^/]+)#",$url,$id_sr)) {
         $id = $id_sr[1];
         $link='http://vn1.vtoday.net/vtimnhanh/'.$id.'.flv';
-        $url=$web_link.'/'.'player.swf?autostart=true&file='.$link;
+        $url=$web_link.'/'.'player.swf?autostart=false&file='.$link;
     }
 	
     else if (preg_match("#http://video.yume.vn/xem-clip/([^/]+)#",$url,$id_sr)) {
         $id = $id_sr[1];
         $link='http://vn1.vtoday.net/vtimnhanh/'.$id.'.flv';
-        $url=$web_link.'/'.'player.swf?autostart=true&file='.$link;
+        $url=$web_link.'/'.'player.swf?autostart=false&file='.$link;
     }
 		
     else if (preg_match("#http://video.yume.vn/video-clip/([^/]+)#",$url,$id_sr)) {
         $id = $id_sr[1];
         $link='http://vn1.vtoday.net/vtimnhanh/'.$id.'.flv';
-        $url=$web_link.'/'.'player.swf?autostart=true&file='.$link;
+        $url=$web_link.'/'.'player.swf?autostart=false&file='.$link;
     }
 		
 	
@@ -370,27 +370,25 @@ function players($url){
     global $wpdb;$type=acp_type($url);
     $mahoa="aHR0cDovL3d3dy55b3V0dWJlLmNvbS92L1ZLc3F4b21SM0tv";
     $url = get_link_total($url);
-    
     //3zing, 
 	if ($type==1 || $type==2 || $type==3 || $type==9 || $type==10 || $type==12 ||$type==13 || $type==17 ||$type==18 || $type==19 || $type==20)  
-	$player = "<embed width=\"670\" height=\"500\" name=\"flashplayer\" src=\"http://phim:81/static/player/player.swf\" FlashVars=\"plugins=captions,http://phim:81/static/player/plugins/proxy.swf&proxy.link=$url&skin=http://phim:81/static/player/lightrv5/lightrv5.xml&autostart=true&captions.file=http://phim:81/static/player/default.srt&captions.fontFamily=Arial&captions.fontSize=17&captions.fontWeight=bold&captions.state=true\" type=\"application/x-shockwave-flash\" allowfullscreen=\"true\" allowScriptAccess=\"always\" />";
-
+	$player = "<embed width=\"670\" height=\"500\" name=\"flashplayer\" src=\"".get_site_url()."/static/player/player.swf\" FlashVars=\"plugins=captions,".get_site_url()."/static/player/plugins/proxy.swf&proxy.link=$url&skin=".get_site_url()."/static/player/lightrv5/lightrv5.xml&autostart=false&captions.file=".get_site_url()."/static/player/default.srt&captions.fontFamily=Arial&captions.fontSize=17&captions.fontWeight=bold&captions.state=true\" type=\"application/x-shockwave-flash\" allowfullscreen=\"true\" allowScriptAccess=\"always\" />";
         //youtube
 	elseif ($type==4)
-            $player = "<embed width=\"670\" height=\"500\" name=\"flashplayer\" src=\"http://phim:81/static/player/player.swf\" FlashVars=\"plugins=captions,http://phim:81/static/player/plugins/proxy.swf&proxy.link=$url&skin=http://phim:81/static/player/lightrv5/lightrv5.xml&autostart=true&captions.file=http://phim:81/static/player/default.srt&captions.fontFamily=Arial&captions.fontSize=17&captions.fontWeight=bold&captions.state=true\" type=\"application/x-shockwave-flash\" allowfullscreen=\"true\" allowScriptAccess=\"always\" />";
+            $player = "<embed width=\"670\" height=\"500\" name=\"flashplayer\" src=\"".get_site_url()."/static/player/player.swf\" FlashVars=\"plugins=captions,".get_site_url()."/static/player/plugins/proxy.swf&proxy.link=$url&skin=".get_site_url()."/static/player/lightrv5/lightrv5.xml&autostart=false&captions.file=".get_site_url()."/static/player/default.srt&captions.fontFamily=Arial&captions.fontSize=17&captions.fontWeight=bold&captions.state=true\" type=\"application/x-shockwave-flash\" allowfullscreen=\"true\" allowScriptAccess=\"always\" />";
 	
         elseif ($type==21)
-            $player = "<iframe src=\"http://phim.styledn.net/grab/grabv1vn.php?link=$url&amp;autostart=true&amp;allowfullscreen=true\"  width=\"100%\" height=\"500\" frameborder=\"0\"></iframe>";
+            $player = "<iframe src=\"http://phim.styledn.net/grab/grabv1vn.php?link=$url&amp;autostart=false&amp;allowfullscreen=true\"  width=\"100%\" height=\"500\" frameborder=\"0\"></iframe>";
 	
         elseif ($type==22)
             $player = "<embed src=\"http://phim.styledn.net/grab/grabhg.php?link=$url\" width=\"100%\" height=\"500\" allowfullscreen=\"true\" allowscriptaccess=\"always\" autostart=\"true\"/>";
 	
         //picasaweb
 	elseif($type==5)
-            $player = "<embed width=\"670\" height=\"500\" name=\"flashplayer\" src=\"http://phim:81/static/player/player.swf\" FlashVars=\"plugins=captions,http://phim:81/static/player/plugins/proxy.swf&proxy.link=$url&skin=http://phim:81/static/player/lightrv5/lightrv5.xml&autostart=true&captions.file=http://phim:81/static/player/default.srt&captions.fontFamily=Arial&captions.fontSize=17&captions.fontWeight=bold&captions.state=true\" type=\"application/x-shockwave-flash\" allowfullscreen=\"true\" allowScriptAccess=\"always\" />";
+            $player = "<embed width=\"670\" height=\"500\" name=\"flashplayer\" src=\"".get_site_url()."/static/player/player.swf\" FlashVars=\"plugins=captions,".get_site_url()."/static/player/plugins/proxy.swf&proxy.link=$url&skin=".get_site_url()."/static/player/lightrv5/lightrv5.xml&autostart=false&captions.file=".get_site_url()."/static/player/default.srt&captions.fontFamily=Arial&captions.fontSize=17&captions.fontWeight=bold&captions.state=true\" type=\"application/x-shockwave-flash\" allowfullscreen=\"true\" allowScriptAccess=\"always\" />";
 	
         elseif ($type==6)
-            $player = "<object type=\"application/x-shockwave-flash\" data=\"http://www.movshare.net/player/player.swf\" width=\"100%\" height=\"410\"><param name=\"allowfullscreen\" value=\"true\" /><param name=\"allowscriptaccess\" value=\"always\" /><param name=\"wmode\" value=\"transparent\" /><param name=\"flashvars\" value=\"plugins=http://anhtrang.org/images/grab.swf&anhtrang.org=$url&autostart=true&repeat=always\" /></object>";
+            $player = "<object type=\"application/x-shockwave-flash\" data=\"http://www.movshare.net/player/player.swf\" width=\"100%\" height=\"410\"><param name=\"allowfullscreen\" value=\"true\" /><param name=\"allowscriptaccess\" value=\"always\" /><param name=\"wmode\" value=\"transparent\" /><param name=\"flashvars\" value=\"plugins=http://anhtrang.org/images/grab.swf&anhtrang.org=$url&autostart=false&repeat=always\" /></object>";
 
 	elseif ($type==7)
             $player = "<center><b><font size=\"5\" color=\"red\"><a href=\"$url\" target=\"_blank\">Nhan vao day de xem phim</a></font></b></center>";
@@ -401,7 +399,7 @@ function players($url){
 	
         //clipvn
         elseif ($type==11)
-            $player = "<embed width=\"670\" height=\"500\" name=\"flashplayer\" src=\"http://phim:81/static/player/player.swf\" FlashVars=\"plugins=captions,http://rapphimviet.com/static/player/plugins/proxy.swf&proxy.link=$url&skin=http://phim:81/static/player/lightrv5/lightrv5.xml&autostart=true&captions.file=http://phim:81/static/player/default.srt&captions.fontFamily=Arial&captions.fontSize=17&captions.fontWeight=bold&captions.state=true\" type=\"application/x-shockwave-flash\" allowfullscreen=\"true\" allowScriptAccess=\"always\" />";
+            $player = "<embed width=\"670\" height=\"500\" name=\"flashplayer\" src=\"".get_site_url()."/static/player/player.swf\" FlashVars=\"plugins=captions,http://rapphimviet.com/static/player/plugins/proxy.swf&proxy.link=$url&skin=".get_site_url()."/static/player/lightrv5/lightrv5.xml&autostart=false&captions.file=".get_site_url()."/static/player/default.srt&captions.fontFamily=Arial&captions.fontSize=17&captions.fontWeight=bold&captions.state=true\" type=\"application/x-shockwave-flash\" allowfullscreen=\"true\" allowScriptAccess=\"always\" />";
 	
         elseif ($type==14)
             $player = "type 14";
