@@ -385,6 +385,7 @@ function players($url){
 	
         //picasaweb
 	elseif($type==5)
+            // $player = "<embed width=\"670\" height=\"500\" name=\"flashplayer\" src=\"".get_site_url()."/static/player/player.swf\" FlashVars=\"plugins=captions,".get_site_url()."/static/player/plugins/proxy.swf&proxy.link=$url&skin=".get_site_url()."/static/player/lightrv5/lightrv5.xml&autostart=false&captions.file=".get_site_url()."/static/player/default.srt&captions.fontFamily=Arial&captions.fontSize=17&captions.fontWeight=bold&captions.state=true\" type=\"application/x-shockwave-flash\" allowfullscreen=\"true\" allowScriptAccess=\"always\" />";
             $player = "<embed width=\"670\" height=\"500\" name=\"flashplayer\" src=\"".get_site_url()."/static/player/player.swf\" FlashVars=\"plugins=captions,".get_site_url()."/static/player/plugins/proxy.swf&proxy.link=$url&skin=".get_site_url()."/static/player/lightrv5/lightrv5.xml&autostart=false&captions.file=".get_site_url()."/static/player/default.srt&captions.fontFamily=Arial&captions.fontSize=17&captions.fontWeight=bold&captions.state=true\" type=\"application/x-shockwave-flash\" allowfullscreen=\"true\" allowScriptAccess=\"always\" />";
 	
         elseif ($type==6)

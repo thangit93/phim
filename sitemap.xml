@@ -1,25 +1,669 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://phim:81/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- generator="wordpress/3.6" -->
 <!-- sitemap-generator-url="http://www.arnebrachhold.de" sitemap-generator-version="3.2.9" -->
-<!-- generated-on="01/07/2016 5:56 AM" -->
+<!-- generated-on="05/07/2016 6:12 AM" -->
 <!-- Debug: Total comment count: 0 -->
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<url>
 		<loc>http://phim:81/</loc>
-		<lastmod>2016-07-01T04:36:31+00:00</lastmod>
+		<lastmod>2016-07-05T06:11:00+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 <!-- Debug: Start Postings -->
-<!-- Debug: Priority report of postID 661: Comments: 0 of 0 = 0 points -->
+<!-- Debug: Priority report of postID 890: Comments: 0 of 0 = 0 points -->
 	<url>
-		<loc>http://phim:81/nguoi-sat-iron-man-4/</loc>
-		<lastmod>2016-07-01T04:36:31+00:00</lastmod>
+		<loc>http://phim:81/ba-chang-ngu-lam-3/</loc>
+		<lastmod>2016-07-05T06:11:00+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-<!-- Debug: Priority report of postID 901: Comments: 0 of 0 = 0 points -->
+<!-- Debug: Priority report of postID 653: Comments: 0 of 0 = 0 points -->
 	<url>
-		<loc>http://phim:81/cuoc-dua-tu-than-1/</loc>
-		<lastmod>2016-07-01T04:20:28+00:00</lastmod>
+		<loc>http://phim:81/cap-3-thai-lan-18/</loc>
+		<lastmod>2016-07-05T06:08:56+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 661: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/nguoi-sat-iron-man-4/</loc>
+		<lastmod>2016-07-05T06:08:44+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 544: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/tam-ly-han-quoc-18/</loc>
+		<lastmod>2016-07-05T06:07:45+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 517: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/dieu-ki-dieu-trong-phong-giam-so-7/</loc>
+		<lastmod>2016-07-05T06:07:40+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 521: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/tao-quan/</loc>
+		<lastmod>2016-07-05T06:07:31+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 528: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/loan-the-thuong-hai/</loc>
+		<lastmod>2016-07-05T06:07:27+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 533: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/dai-thuong-hai-thu-linh-cuoi-cung/</loc>
+		<lastmod>2016-07-05T06:07:07+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 536: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/ben-nhau/</loc>
+		<lastmod>2016-07-05T06:07:01+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 539: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/duong-dua-ac-liet/</loc>
+		<lastmod>2016-07-05T06:06:48+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 549: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/lan-que-phuong/</loc>
+		<lastmod>2016-07-05T06:06:41+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 563: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/ca-map-sat-thu/</loc>
+		<lastmod>2016-07-05T06:06:24+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 554: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/tinh-nguoi-duyen-ma/</loc>
+		<lastmod>2016-07-05T06:06:10+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 571: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/nhung-ke-buon-ban-noi-tang/</loc>
+		<lastmod>2016-07-05T06:05:43+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 574: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/tay-du-ky-2013-moi-tinh-ngoai-truyen/</loc>
+		<lastmod>2016-07-05T06:05:38+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 579: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/chot-chan-cuoi-cung/</loc>
+		<lastmod>2016-07-05T06:05:18+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 582: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/bui-doi-cho-lon-full/</loc>
+		<lastmod>2016-07-05T06:04:45+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 585: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/nguoi-soi/</loc>
+		<lastmod>2016-07-05T06:04:41+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 589: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/linh-thuy-danh-bo-3-doi-mat-tu-than/</loc>
+		<lastmod>2016-07-05T06:04:37+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 593: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/taxi/</loc>
+		<lastmod>2016-07-05T06:04:32+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 596: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/vi-thanh-song/</loc>
+		<lastmod>2016-07-05T06:04:24+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 599: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/truong-hoc-xac-song/</loc>
+		<lastmod>2016-07-05T06:04:18+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 602: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/tay-trom-chuyen-nghiep/</loc>
+		<lastmod>2016-07-05T06:03:37+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 605: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/lac-giua-hoang-mac/</loc>
+		<lastmod>2016-07-05T06:03:32+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 608: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/sat-thu-pho-wall/</loc>
+		<lastmod>2016-07-05T06:03:28+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 611: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/tran-chien-thai-binh-duong/</loc>
+		<lastmod>2016-07-05T06:03:08+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 614: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/diem-dung-dam-mau/</loc>
+		<lastmod>2016-07-05T06:03:04+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 617: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/wall-e-robot-biet-yeu/</loc>
+		<lastmod>2016-07-05T06:02:45+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 620: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/biet-doi-chong-zombie/</loc>
+		<lastmod>2016-07-05T06:02:40+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 623: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/co-dau-ma/</loc>
+		<lastmod>2016-07-05T06:02:20+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 626: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/don-canh-sat-ma/</loc>
+		<lastmod>2016-07-05T06:02:14+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 632: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/nguoi-sat-3/</loc>
+		<lastmod>2016-07-05T06:02:02+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 636: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/biet-chet-lien/</loc>
+		<lastmod>2016-07-05T06:01:40+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 639: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/duong-dua-sinh-tu/</loc>
+		<lastmod>2016-07-05T06:01:15+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 642: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/ngay-tan-the/</loc>
+		<lastmod>2016-07-05T06:01:04+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 645: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/bo-toc-an-thit-nguoi/</loc>
+		<lastmod>2016-07-05T06:00:52+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 649: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/bi-mat-trai-dat-diet-vong/</loc>
+		<lastmod>2016-07-05T06:00:21+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 658: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/cong-chua-toc-xu/</loc>
+		<lastmod>2016-07-05T06:00:12+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 677: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/cuoc-doi-cua-pi/</loc>
+		<lastmod>2016-07-05T05:59:24+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 672: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/khu-mo-tu-than/</loc>
+		<lastmod>2016-07-05T05:59:18+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 685: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/chuyen-tau-ma/</loc>
+		<lastmod>2016-07-05T05:26:39+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 681: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/than-sung-lucky-luke/</loc>
+		<lastmod>2016-07-05T05:26:35+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 688: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/doi-quan-sieu-trom/</loc>
+		<lastmod>2016-07-05T04:59:36+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 692: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/tom-and-jerry-moi-2013/</loc>
+		<lastmod>2016-07-05T04:58:45+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 695: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/tom-and-jerry-phuu-luu-cung-dau-than/</loc>
+		<lastmod>2016-07-05T04:58:39+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 701: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/the-chien-z-world-war-z/</loc>
+		<lastmod>2016-07-05T04:58:30+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 707: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/tan-kim-binh-mai-3d-2013/</loc>
+		<lastmod>2016-07-05T04:56:29+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 714: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/chu-meo-di-hia/</loc>
+		<lastmod>2016-07-05T04:56:21+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 717: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/manh-ho-to-khat-nhi/</loc>
+		<lastmod>2016-07-05T04:56:16+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 720: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/vo-dang-that-bao/</loc>
+		<lastmod>2016-07-05T04:55:55+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 723: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/nguoi-cha-chay-tron/</loc>
+		<lastmod>2016-07-05T04:55:34+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 729: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/biet-doi-tham-tu/</loc>
+		<lastmod>2016-07-05T04:55:27+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 733: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/hon-ma-luc-nua-dem/</loc>
+		<lastmod>2016-07-05T04:54:59+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 736: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/am-anh-kinh-hoang/</loc>
+		<lastmod>2016-07-05T04:54:50+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 739: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/au-trung-tinh-nghich-season-2/</loc>
+		<lastmod>2016-07-05T04:54:35+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 742: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/cuoc-chien-mang-xa-2-bao-thu/</loc>
+		<lastmod>2016-07-05T04:53:11+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 745: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/bau-troi-sup-do-phan-1/</loc>
+		<lastmod>2016-07-05T04:52:59+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 749: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/bau-troi-sup-do-phan-2/</loc>
+		<lastmod>2016-07-05T04:52:50+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 755: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/cia-tai-xuat/</loc>
+		<lastmod>2016-07-05T04:52:30+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 752: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/cia-tai-xuat-2/</loc>
+		<lastmod>2016-07-05T04:52:10+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 758: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/ao-anh-san-nguoi/</loc>
+		<lastmod>2016-07-05T04:51:54+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 769: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/gia-dinh-la-so-1/</loc>
+		<lastmod>2016-07-05T04:51:47+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 761: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/gia-dinh-la-so-1-phan-2/</loc>
+		<lastmod>2016-07-05T04:51:39+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 772: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/thai-cuc-truyen-nhan/</loc>
+		<lastmod>2016-07-05T04:51:11+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 776: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/hoi-sinh-a-resurrection/</loc>
+		<lastmod>2016-07-05T04:51:06+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 779: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/doi-quan-ma-quy/</loc>
+		<lastmod>2016-07-05T04:50:44+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 785: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/ke-chay-tron-mud/</loc>
+		<lastmod>2016-07-05T04:50:04+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 782: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/cuoc-goi-lam-nan/</loc>
+		<lastmod>2016-07-05T04:30:23+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 787: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/nhung-tay-sung-diet-quy/</loc>
+		<lastmod>2016-07-05T04:24:22+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 791: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/ke-cap-mat-trang-2/</loc>
+		<lastmod>2016-07-05T04:22:54+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 800: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/qua-nhanh-qua-nguy-hiem-6/</loc>
+		<lastmod>2016-07-05T04:22:48+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 803: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/nha-trang-that-thu/</loc>
+		<lastmod>2016-07-05T04:22:44+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 806: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/hiep-si-toc-do/</loc>
+		<lastmod>2016-07-05T04:22:26+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 809: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/sat-nhan-trong-nha/</loc>
+		<lastmod>2016-07-05T04:22:13+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 812: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/ho-thuy-quai/</loc>
+		<lastmod>2016-07-05T04:22:00+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 815: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/ky-sinh-trung-tien-su/</loc>
+		<lastmod>2016-07-05T04:21:26+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 818: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/dai-chien-nguoi-soi/</loc>
+		<lastmod>2016-07-05T04:21:12+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 821: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/dai-chien-quai-vat-bien/</loc>
+		<lastmod>2016-07-05T04:20:58+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 824: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/ac-quy-tren-hoang-dao/</loc>
+		<lastmod>2016-07-05T04:20:33+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 827: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/tay-dua-sieu-toc-turbo/</loc>
+		<lastmod>2016-07-05T04:20:09+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 830: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/ky-si-co-doc-2013/</loc>
+		<lastmod>2016-07-05T04:19:42+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 833: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/huyen-thoai-ho-loch-ness/</loc>
+		<lastmod>2016-07-05T04:18:54+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 837: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/coi-xay-thit-nguoi/</loc>
+		<lastmod>2016-07-05T04:18:35+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 840: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/ke-thu-cua-phu-nu/</loc>
+		<lastmod>2016-07-05T04:18:06+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 845: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/ky-an-truyen-tranh/</loc>
+		<lastmod>2016-07-05T04:17:45+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 848: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/nha-tro-ma/</loc>
+		<lastmod>2016-07-05T04:15:15+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 851: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/tro-dua-cua-so-phan-today-tv/</loc>
+		<lastmod>2016-07-05T04:14:50+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 857: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/phi-vu-the-ky/</loc>
+		<lastmod>2016-07-05T04:14:30+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 860: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/pain-gain-co-choi-co-nhan/</loc>
+		<lastmod>2016-07-05T04:14:06+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 863: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/ban-nang-tra-thu/</loc>
+		<lastmod>2016-07-05T04:13:42+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 876: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/duong-dua-tu-than/</loc>
+		<lastmod>2016-07-05T04:13:29+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 881: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/duong-dua-tu-than-2/</loc>
+		<lastmod>2016-07-05T04:13:10+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 872: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/duong-dua-tu-than-3/</loc>
+		<lastmod>2016-07-05T04:12:11+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 887: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://phim:81/ba-chang-ngu-lam-the-hangover/</loc>
+		<lastmod>2016-07-05T04:11:09+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>

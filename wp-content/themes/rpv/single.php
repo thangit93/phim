@@ -56,7 +56,7 @@ $permalink = get_permalink( $idphim );
 					s1.addParam("allowfullscreen","true");
 					s1.addParam("allowscriptaccess","always");
 					s1.addParam("wmode","transparent");
-					s1.addParam("flashvars","plugins=http://media.adnetwork.vn/flash/jwplayer/ova-jw.swf&config=http://delivery.adnetwork.vn/247/ovavideoad/wid_1290833222/zid_1332924631/&file=<?php echo get_post_meta($post->ID, "phim_trailer", true);?>&autostart=false");
+					s1.addParam("flashvars","file=<?php echo get_post_meta($post->ID, "phim_trailer", true);?>&autostart=false");
 					s1.write("mediaplayer");
 				</script>
                                     <?php else : ?>
