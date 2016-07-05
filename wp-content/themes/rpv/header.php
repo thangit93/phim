@@ -44,7 +44,7 @@
             
         <div id="search">
             <form method="get" id="cse-search-box" name="search" action="<?php bloginfo('siteurl');?>/tim-kiem-phim">
-                <input type="hidden" name="cx" value="016420794718014590513:WMX478417039"/>
+                <input type="hidden" name="cx" value="000799653564763940806:lq4aeashasa"/>
                 <input type="hidden" value="FORID:9" name="cof"/>
                 <input type="hidden" value="UTF-8" name="ie"/>
                 <input type="hidden" name="search_type" id="search_type" value="all" />

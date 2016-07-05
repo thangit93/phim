@@ -25,7 +25,7 @@ $permalink = get_permalink( $idphim );
 </div>
 
 <div class="ad_location above_of_content container">
-    ads
+
 </div>
 
 <div id="body-wrap" class="container">
@@ -39,14 +39,15 @@ $permalink = get_permalink( $idphim );
                 <!-- Put the following javascript before the closing </head> tag. -->
                 <script>
                   (function() {
-                    var cx = '016420794718014590513:WMX478417039';
-                    var gcse = document.createElement('script'); gcse.type = 'text/javascript'; gcse.async = true;
-                    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
-                        '//www.google.com/cse/cse.js?cx=' + cx;
-                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(gcse, s);
+                    var cx = '000799653564763940806:lq4aeashasa';
+                    var gcse = document.createElement('script');
+                    gcse.type = 'text/javascript';
+                    gcse.async = true;
+                    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+                    var s = document.getElementsByTagName('script')[0];
+                    s.parentNode.insertBefore(gcse, s);
                   })();
                 </script>
-                <!-- Place this tag where you want both of the search box and the search results to render -->
                 <gcse:search></gcse:search>
             </div>
         </div>
